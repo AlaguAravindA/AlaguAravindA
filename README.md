@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning **Fullstack**
 
-- 👨‍💻 All of my projects are available at [https://alaguaravinda.github.io/AlaguAravindA/](https://alaguaravinda.github.io/AlaguAravindA/)
-
+- 👨‍💻 All of my projects are available at [https://alaguaravinda.github.io/AlaguAravindA/](https://alaguaravinda.github.io/portfolio/)
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT**
 
 - 📫 How to reach me **aalaguraj748@gmail.com**
