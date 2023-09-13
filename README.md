@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on **Event Management System**
 
 - 🌱 I’m currently learning **Fullstack**
+- My chatbot for legal queries using opeanAi api:https://studio.openweaver.com/apps/aalaguraj748/ChatBot1/login
 
 - 👨‍💻 All of my projects are available at [https://alaguaravinda.github.io/AlaguAravindA/](https://alaguaravinda.github.io/portfolio/)
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT**
