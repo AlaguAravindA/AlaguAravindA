@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alagu Aravind</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **CineSync movie searching app (MERN Stack)**
+- 🔭 I have completed **CineSync movie searching app (MERN Stack)** you can check it out in my repositry
 
 - 🌱 I’m currently learning **Fullstack**
 - My chatbot for legal queries using opeanAi api:https://studio.openweaver.com/apps/aalaguraj748/ChatBot1/login
